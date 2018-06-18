@@ -5,7 +5,7 @@
 # Algorithm 
 
 # DO untill computer_guess equals user_guess
-    # Ask the user to enter a number 
+    # Ask the user to enter a number between 0 -10
     # See if user_guess equals the computer guess
 
 
